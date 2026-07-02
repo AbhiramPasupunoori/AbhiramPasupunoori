@@ -15,7 +15,7 @@
 
 <br />
 
-Hi, I'm [Abhiram Pasupunoori](https://www.linkedin.com/in/abhiram-pasupunoori19/?skipRedirect=true), a Full Stack Developer 🚀 from Hyderabad, India.  A Artificial Intelligence and Machine Learning with a strong passion for Artificial Intelligence and Machine Learning and working on quite a few personal projects. 
+Hi, I'm [Abhiram Pasupunoori](https://www.linkedin.com/in/abhiram-pasupunoori19/?skipRedirect=true), a Full Stack Developer 🚀 from Hyderabad, India.  A Artificial Intelligence and Machine Learning graduate with a strong passion for Artificial Intelligence and Machine Learning and working on quite a few personal projects. 
 
 I'm interested in Web Development, Mobile App Development, Machine learning and Data Science.
   
